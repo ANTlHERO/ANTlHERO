@@ -1,10 +1,10 @@
 <div align="center">
  ponytown's official Garysmith!! lol
-
- <details> @pt-hall-of-media @pt-loveforfictional @pt-fashion @FOLKTOWN @cosplaytown
-  <summary>  ^_^ mentions!! tysm
-   <br>
- </details>
+  <details> 
+<a href="https://github.com/pt-hall-of-media" target="_blank">pt-hall-of-media</a>♡<a href="https://github.com/pt-loveforfictional">pt-loveforfictional</a>♡<a href="https://github.com/pt-fashion">pt-fashion</a>♡<a href="https://github.com/FOLKTOWN">FOLKTOWN</a>♡<a href="https://github.com/cosplaytown">cosplaytown</a>
+  <summary> ^_^ mentions!! tysm
+ 
+  </details>
 
 <div align="center">
 
@@ -19,6 +19,8 @@
 <p align="center">  
 <a href="https://cowpoke.atabook.org/">atabook<a/>⠀ <a href="https://pronouns.cc/@bkq">prns.cc</a>⠀ <a href="https://guns.lol/qunt">gunzlol<a/>
 <p/>
-  
+ 
+
+
                                     
 
