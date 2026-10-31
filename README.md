@@ -15,7 +15,7 @@ ${\space}$
 <table>
   <tr>
     <td width=100%">
-      <img src="https://files.catbox.moe/lfi5aw.png" width="5000" height="10000" alt="dude" />
+      <img src="https://files.catbox.moe/lfi5aw.png" width="50000" height="100000" alt="dude" />
     </td>
     <td width="100%" align="center">
       <table>
